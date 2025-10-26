@@ -1,0 +1,681 @@
+{
+  "GeneratedAt": "2025-10-26 11:22:53",
+  "League": "English Football League Championship",
+  "TotalMatches": 12,
+  "Predictions": [
+    {
+      "MatchId": "WrexhamAFC_vs_CoventryCityFC_00010101",
+      "MatchDate": "0001-01-01 00:00:00",
+      "HomeTeam": "Wrexham AFC",
+      "AwayTeam": "Coventry City FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.905327439,
+        "CalibratedProbability": 0.905327439,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.660301447,
+        "CalibratedProbability": 0.660301447,
+        "Confidence": "Medium"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.99814105,
+        "CalibratedProbability": 0.99814105,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.905327439,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": 0.72012213468551622,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 72.01%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.660301447,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": 0.65075361728668213,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 65.08%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.99814105,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.84656094312667851,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 84.66%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:25",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "LeicesterCityFC_vs_BlackburnRoversFC_20250111",
+      "MatchDate": "2025-01-11 12:30:00",
+      "HomeTeam": "Leicester City FC",
+      "AwayTeam": "Blackburn Rovers FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.84916383,
+        "CalibratedProbability": 0.84916383,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.2306306,
+        "CalibratedProbability": 0.2306306,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.9953877,
+        "CalibratedProbability": 0.9953877,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.84916383,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": 0.61341127753257751,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 61.34%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.2306306,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.42342348396778107,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -42.34% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.9953877,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.841467195749283,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 84.15%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:27",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "NorwichCityFC_vs_HullCityAFC_20250111",
+      "MatchDate": "2025-01-11 12:30:00",
+      "HomeTeam": "Norwich City FC",
+      "AwayTeam": "Hull City AFC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.607662857,
+        "CalibratedProbability": 0.607662857,
+        "Confidence": "Medium"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.1332189,
+        "CalibratedProbability": 0.1332189,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.928936362,
+        "CalibratedProbability": 0.928936362,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.607662857,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": 0.15455942749977103,
+          "KellyStakePercentage": 0.042933174305491956,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 15.46%. Kelly suggests 4.29% stake."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.1332189,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.66695275157690048,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -66.70% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.928936362,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.71853227019310006,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 71.85%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:30",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "WestBromwichAlbionFC_vs_SheffieldWednesdayFC_20250111",
+      "MatchDate": "2025-01-11 12:30:00",
+      "HomeTeam": "West Bromwich Albion FC",
+      "AwayTeam": "Sheffield Wednesday FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.180873513,
+        "CalibratedProbability": 0.180873513,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.290573269,
+        "CalibratedProbability": 0.290573269,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.380501628,
+        "CalibratedProbability": 0.380501628,
+        "Confidence": "Medium"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.180873513,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.65634032487869265,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -65.63% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.290573269,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.2735668271780014,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -27.36% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.380501628,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": -0.29607198834419246,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -29.61% is below minimum threshold of 3.00%."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:33",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "BirminghamCityFC_vs_PortsmouthFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Birmingham City FC",
+      "AwayTeam": "Portsmouth FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.2924392,
+        "CalibratedProbability": 0.2924392,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.111835852,
+        "CalibratedProbability": 0.111835852,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.9781399,
+        "CalibratedProbability": 0.9781399,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.2924392,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.44436553418636326,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -44.44% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.111835852,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.72041036933660507,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -72.04% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.9781399,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.80955877304077162,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 80.96%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:35",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "CharltonAthleticFC_vs_SwanseaCityAFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Charlton Athletic FC",
+      "AwayTeam": "Swansea City AFC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.8898626,
+        "CalibratedProbability": 0.8898626,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.661604762,
+        "CalibratedProbability": 0.661604762,
+        "Confidence": "Medium"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.9981876,
+        "CalibratedProbability": 0.9981876,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.8898626,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": 0.690738934278488,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 69.07%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.661604762,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": 0.65401190519332886,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 65.40%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.9981876,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.84664706289768232,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 84.66%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:38",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "OxfordUnitedFC_vs_MillwallFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Oxford United FC",
+      "AwayTeam": "Millwall FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.2630798,
+        "CalibratedProbability": 0.2630798,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.08768615,
+        "CalibratedProbability": 0.08768615,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.7263731,
+        "CalibratedProbability": 0.7263731,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.2630798,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.50014839470386507,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -50.01% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.08768615,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.78078462183475494,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -78.08% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.7263731,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.34379019141197209,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 34.38%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:41",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "QueensParkRangersFC_vs_IpswichTownFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Queens Park Rangers FC",
+      "AwayTeam": "Ipswich Town FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.996264338,
+        "CalibratedProbability": 0.996264338,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.868261933,
+        "CalibratedProbability": 0.868261933,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.9622866,
+        "CalibratedProbability": 0.9622866,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.996264338,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": 0.89290224313735944,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 89.29%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.868261933,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": 1.170654833316803,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 117.07%. Kelly suggests 5.00% stake."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.9622866,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.78023019433021545,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 78.02%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:43",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "SheffieldUnitedFC_vs_DerbyCountyFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Sheffield United FC",
+      "AwayTeam": "Derby County FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.08855367,
+        "CalibratedProbability": 0.08855367,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.428397059,
+        "CalibratedProbability": 0.428397059,
+        "Confidence": "Low"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.3037044,
+        "CalibratedProbability": 0.3037044,
+        "Confidence": "Medium"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.08855367,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.83174803256988528,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -83.17% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.428397059,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": 0.070992648601531982,
+          "KellyStakePercentage": 0.011832108100255331,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 7.10%. Kelly suggests 1.18% stake."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.3037044,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": -0.43814684003591531,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -43.81% is below minimum threshold of 3.00%."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:46",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "SouthamptonFC_vs_PrestonNorthEndFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Southampton FC",
+      "AwayTeam": "Preston North End FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.0732092,
+        "CalibratedProbability": 0.0732092,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.292986661,
+        "CalibratedProbability": 0.292986661,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.997666359,
+        "CalibratedProbability": 0.997666359,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.0732092,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.86090252697467806,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -86.09% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.292986661,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.26753334701061249,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -26.75% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.997666359,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": 0.84568276405334486,
+          "KellyStakePercentage": 0.05,
+          "Recommendation": "BET",
+          "Reasoning": "Positive expected value of 84.57%. Kelly suggests 5.00% stake."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:49",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "StokeCityFC_vs_BristolCityFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Stoke City FC",
+      "AwayTeam": "Bristol City FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.179188386,
+        "CalibratedProbability": 0.179188386,
+        "Confidence": "High"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.0353830568,
+        "CalibratedProbability": 0.0353830568,
+        "Confidence": "High"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.300951958,
+        "CalibratedProbability": 0.300951958,
+        "Confidence": "Medium"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.179188386,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.65954206734895715,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -65.95% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.0353830568,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.91154235787689686,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -91.15% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.300951958,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": -0.44323887825012209,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -44.32% is below minimum threshold of 3.00%."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:51",
+      "Status": "TIMED"
+    },
+    {
+      "MatchId": "WatfordFC_vs_MiddlesbroughFC_20250111",
+      "MatchDate": "2025-01-11 15:00:00",
+      "HomeTeam": "Watford FC",
+      "AwayTeam": "Middlesbrough FC",
+      "Competition": "Championship",
+      "Over25Goals": {
+        "Market": "Over 2.5 Goals",
+        "Probability": 0.3089169,
+        "CalibratedProbability": 0.3089169,
+        "Confidence": "Medium"
+      },
+      "Over35Goals": {
+        "Market": "Over 3.5 Goals",
+        "Probability": 0.338274926,
+        "CalibratedProbability": 0.338274926,
+        "Confidence": "Medium"
+      },
+      "BothTeamsToScore": {
+        "Market": "Both Teams To Score",
+        "Probability": 0.0343674,
+        "CalibratedProbability": 0.0343674,
+        "Confidence": "High"
+      },
+      "Recommendations": [
+        {
+          "Market": "Over 2.5 Goals",
+          "Probability": 0.3089169,
+          "AssumedOdds": 1.9,
+          "ExpectedValue": -0.41305789649486546,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -41.31% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Over 3.5 Goals",
+          "Probability": 0.338274926,
+          "AssumedOdds": 2.5,
+          "ExpectedValue": -0.15431268513202667,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -15.43% is below minimum threshold of 3.00%."
+        },
+        {
+          "Market": "Both Teams To Score",
+          "Probability": 0.0343674,
+          "AssumedOdds": 1.85,
+          "ExpectedValue": -0.936420307867229,
+          "KellyStakePercentage": 0.0,
+          "Recommendation": "SKIP",
+          "Reasoning": "Expected value of -93.64% is below minimum threshold of 3.00%."
+        }
+      ],
+      "PredictionTimestamp": "2025-10-26 11:22:53",
+      "Status": "TIMED"
+    }
+  ],
+  "Version": "1.0",
+  "Disclaimer": "For entertainment purposes only. Past performance does not guarantee future results. Gamble responsibly. 18+ only."
+}
